@@ -160,5 +160,6 @@ case 14: INPUT(); break;
 case 15: OUTPUT(); break;
 case 16: scanf("%d", &Imm); JUMP(Imm); break;
 case 17: return 0;
+int b;
 }
 }
